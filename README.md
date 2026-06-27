@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/hero-banner.jpg" width="100%" alt="Hero banner"/>
+<img src="assets/hero-banner.svg" width="100%" alt="Hero banner"/>
 
 <br/><br/>
 
 <a href="https://github.com/nikhis">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA-Seq;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=8FE3CF&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA-Seq;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=FF7A45&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
 </a>
 
 <br/><br/>
@@ -35,9 +35,10 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
-
+**NIKHILA SAI TUMMALA**
+Bachelor of Technology in Bioinformatics  
 🎓 **Masters in Genome Analytics** — Monash University, Australia
-🔬 **4 years** prior research — CSIR-CCMB, India ( plant genomics)
+🔬 **4 years** prior research — CSIR-CCMB, India (plant genomics)
 🧵 **Thesis:** sequence features governing condition-specific splicing in plants, built around the `SpliSER` pipeline (SKB Lab, Monash)
 
 **Research interests**
@@ -49,7 +50,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="assets/phoenix-dna-logo.png" width="100%" alt="Phoenix and DNA helix artwork"/>
+<img src="assets/A802AF15-F616-4DA2-A180-0B185D80C92A.PNG" width="100%" alt="Phoenix and DNA helix artwork"/>
 
 </td>
 </tr>
@@ -91,7 +92,7 @@ Genome-wide analysis of condition-specific alternative splicing events in plants
 ### 🧬 Gene–Phenotype Association via Variant Analysis
 Identifying gene–phenotype associations through systematic variant calling and annotation pipelines.
 
-`BWA` `GATK` `SAMtools` `VEP`
+`BWA` `GATK` `SAMtools` `VEP` `DNA extraction and sequencing` 
 
 </td>
 </tr>
@@ -107,15 +108,12 @@ Differential expression-driven analysis to flag candidate gene–drug target rel
 <td width="50%">
 
 ### 🌾 Multi-Omics Analysis of Trait-Specific Genomics, Candidate Gene & SNP Marker Discovery for Early Heading in Rice
-Integrative omics analysis QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
+Integrative omics analysis — QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
 
-`QTL-seq` `KASP` `RNA-Seq` `TASSEL` `DESeq2`
+`QTL-seq` `KASP Assays` `RNA-Seq` `TASSEL` `DESeq2` `RNA extraction and sequencing` `PCR`
 
 </td>
 </tr>
-<tr>
-<td width="50%" colspan="2">
-
 </table>
 
 <br/>
