@@ -201,7 +201,6 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://img.shields.io/badge/BEDtools-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/featureCounts-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/Flagstat-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
-<img src="https://img.shields.io/badge/Nextflow-1a1a2e?style=for-the-badge&logo=nextflow&logoColor=c9b8ff"/>
 
 **Platforms & Environments**
 
