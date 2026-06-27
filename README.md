@@ -3,7 +3,7 @@
 <br/><br/>
 
 <a href="https://github.com/nikhis">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA,DNA-Sequencing Analysis ;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=FF7A45&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA/DNA-sequencing;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=FF7A45&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
 </a>
 <br/><br/>
 
@@ -30,6 +30,7 @@
 <tr>
 <td width="55%" valign="top">
 NIKHILA SAI TUMMALA
+
 
   
 🎓 Bachelor of Technology in Bioinformatics - VFSTR University, India
