@@ -285,8 +285,6 @@ I'm early in my open-source journey — currently building out my pipeline docum
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
-
 <div align="center">
 <sub>Designed with precision, like a well-aligned genome. 🧬</sub>
 </div>
