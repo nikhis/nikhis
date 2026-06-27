@@ -57,6 +57,8 @@ Reproducible, well-documented, biologically grounded pipelines — not scripts t
 
 
 </td>
+
+
 <td width="45%" valign="top" align="center">
 <img src="https://raw.githubusercontent.com/nikhis/nikhis/main/A802AF15-F616-4DA2-A180-0B185D80C92A.PNG" width="260" alt="Phoenix and DNA helix artwork"/>
 </td>
