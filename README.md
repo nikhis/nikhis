@@ -33,13 +33,13 @@ NIKHILA SAI TUMMALA
 
 
   
-🎓 Bachelor of Technology in Bioinformatics - VFSTR University, India
+🎓 Bachelor of Technology in Bioinformatics, VFSTR University, India
 
 
-🎓 Masters in Genome Analytics — Monash University, Australia
+🎓 Masters in Genome Analytics, Monash University, Australia
 
 
-🔬 4 years prior research — CSIR-CCMB, India (plant genomics)
+🔬 4 years prior research in CSIR-CCMB, India (plant genomics)
 
 
 🧵 Bachelors Thesis : Gene - Phenotype Association in Rice Mutant Line using NGS”
@@ -68,10 +68,10 @@ Reproducible, well-documented, biologically grounded pipelines — not scripts t
 <summary><b>💼 Work Experience</b></summary>
 <br/>
   
-**Project Associate — CSIR-Centre for Cellular and Molecular Biology (CCMB)**
+**Project Associate : CSIR-Centre for Cellular and Molecular Biology (CCMB)**
 `3 years 10 months`
 
-Worked on oncology and plant genomics pipelines, including genome assembly QC, variant discovery, QTL-seq analysis, and differential gene expression workflows for rice genetics research — work that forms the basis of the publicly available preprints listed below.
+Worked on plant genomics from phenotyping in field to extracting the genome to sequencing and downstream analysis using NGS pipeline, including genome assembly QC, variant discovery, QTL-seq analysis, and differential gene expression workflows for rice genetics research work that forms the basis of the publicly available preprints listed below.
 
 </details>
 
@@ -88,7 +88,7 @@ Worked on oncology and plant genomics pipelines, including genome assembly QC, v
 <td width="50%">
 
 ### 🧵 Splicing: Sequence Features Governing Condition-Specific Splicing in Plants
-**Master's Thesis — Monash University**
+**Master's Thesis : Monash University**
 
 Genome-wide analysis of condition-specific alternative splicing events in plants under varying environmental conditions.
 
@@ -116,7 +116,7 @@ Differential expression-driven analysis to flag candidate gene–drug target rel
 <td width="50%">
 
 ### 🌾 Multi-Omics Analysis of Trait-Specific Genomics, Candidate Gene & SNP Marker Discovery for Early Heading in Rice
-Integrative omics analysis — QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
+Integrative omics analysis, QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
 
 `QTL-seq` `KASP Assays` `RNA-Seq` `TASSEL` `DESeq2` `RNA extraction and sequencing` `PCR`
 
