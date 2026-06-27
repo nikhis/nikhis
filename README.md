@@ -1,33 +1,27 @@
 <div align="center">
-
-<img src="assets/hero-banner.svg" width="100%" alt="Hero banner"/>
-
+<img src="hero-banner.svg" width="100%" alt="Hero banner"/>
 <br/><br/>
 
 <a href="https://github.com/nikhis">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA-Seq;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=FF7A45&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
 </a>
-
 <br/><br/>
 
 <i>"Every genome tells a story — I want to unravel it."</i>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-About-0a0a0a?style=for-the-badge" alt=""/>&nbsp;
-<a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-1a1a2e?style=flat-square&logoColor=white" alt=""/></a>&nbsp;
-<a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1a2e?style=flat-square&logoColor=white" alt=""/></a>&nbsp;
-<a href="#-research--publications"><img src="https://img.shields.io/badge/Research-1a1a2e?style=flat-square&logoColor=white" alt=""/></a>&nbsp;
-<a href="#-tech--tools"><img src="https://img.shields.io/badge/Tech%20Stack-1a1a2e?style=flat-square&logoColor=white" alt=""/></a>&nbsp;
-<a href="#-github-analytics"><img src="https://img.shields.io/badge/GitHub%20Stats-1a1a2e?style=flat-square&logoColor=white" alt=""/></a>&nbsp;
+<img src="https://img.shields.io/badge/-About-0a0a0a?style=for-the-badge" alt=""/> 
+<a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
+<a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
+<a href="#-research--publications"><img src="https://img.shields.io/badge/Research-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
+<a href="#-tech--tools"><img src="https://img.shields.io/badge/Tech%20Stack-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/GitHub%20Stats-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-1a1a2e?style=flat-square&logoColor=white" alt=""/></a>
 
 </div>
-
 <br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
-
 <br/>
 
 ## 🧬 About Me
@@ -50,13 +44,14 @@ Bachelor of Technology in Bioinformatics
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="assets/A802AF15-F616-4DA2-A180-0B185D80C92A.PNG" width="100%" alt="Phoenix and DNA helix artwork"/>
-
+</td>
+<td width="45%" valign="top" align="center">
+<img src="A802AF15-F616-4DA2-A180-0B185D80C92A.PNG" width="100%" alt="Phoenix and DNA helix artwork"/>
 </td>
 </tr>
 </table>
-
 <details>
+  
 <summary><b>💼 Work Experience</b></summary>
 <br/>
 
