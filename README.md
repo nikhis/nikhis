@@ -24,37 +24,35 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
 <br/>
 
-## 🧬 About Me
+🧬 About Me
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
-**NIKHILA SAI TUMMALA**
-Bachelor of Technology in Bioinformatics  
-🎓 **Masters in Genome Analytics** — Monash University, Australia
-🔬 **4 years** prior research — CSIR-CCMB, India (plant genomics)
-🧵 **Thesis:** sequence features governing condition-specific splicing in plants, built around the `SpliSER` pipeline (SKB Lab, Monash)
+🎓 NIKHILA SAI TUMMALA — Bachelor of Technology in Bioinformatics
+🎓 Masters in Genome Analytics — Monash University, Australia
+🔬 4 years prior research — CSIR-CCMB, India (plant genomics)
+🧵 Thesis: sequence features governing condition-specific splicing in plants, built around the SpliSER pipeline (SKB Lab, Monash)
 
-**Research interests**
+Research interests
 
-🧬 RNA-Seq &nbsp;·&nbsp; 🧩 Splicing &nbsp;·&nbsp; 🌾 Plant genomics &nbsp;·&nbsp; 🤖 Genome curation &nbsp;·&nbsp; 🧪 Variant analysis
+🧬 RNA-Seq  ·  🧩 Splicing  ·  🌾 Plant genomics  ·  🤖 Genome curation  ·  🧪 Variant analysis
 
-> Reproducible, well-documented, biologically grounded pipelines — not scripts that run once on someone's laptop.
+
+Reproducible, well-documented, biologically grounded pipelines — not scripts that run once on someone's laptop.
+
+
 
 </td>
 <td width="45%" valign="top" align="center">
-
-</td>
-<td width="45%" valign="top" align="center">
-<img src="A802AF15-F616-4DA2-A180-0B185D80C92A.PNG" width="100%" alt="Phoenix and DNA helix artwork"/>
+<img src="https://raw.githubusercontent.com/nikhis/nikhis/main/A802AF15-F616-4DA2-A180-0B185D80C92A.PNG" width="260" alt="Phoenix and DNA helix artwork"/>
 </td>
 </tr>
 </table>
 <details>
-  
 <summary><b>💼 Work Experience</b></summary>
 <br/>
-
+  
 **Project Associate — CSIR-Centre for Cellular and Molecular Biology (CCMB)**
 `3 years 10 months`
 
