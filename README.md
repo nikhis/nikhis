@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=Nikhila%20Sai%20Tummala&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Genome%20Analytics%20%7C%20Bioinformatics%20%7C%20Computational%20Biology&descSize=18&descAlignY=58&descColor=b8c5d6"/>
+<img src="assets/hero-banner.jpg" width="100%" alt="Hero banner"/>
 
 <br/><br/>
 
-<img src="assets/phoenix-dna-logo.svg" width="180" alt="Phoenix and DNA helix logo"/>
-
-<br/>
-
 <a href="https://github.com/nikhis">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila+Sai's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA-Seq;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=8FE3CF&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA-Seq;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=8FE3CF&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
 </a>
 
 <br/><br/>
 
-<i>"Every genome tells a story - I am here to unravel them"</i>
+<i>"Every genome tells a story — I want to unravel it."</i>
 
 <br/><br/>
 
@@ -38,40 +34,22 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-I'm a bioinformatics researcher  with **Master's in Genome Analytics at Monash University**, Australia — building on roughly **four years of prior research experience** at **CSIR–Centre for Cellular and Molecular Biology (CCMB)**, India, across oncology and plant genomics pipelines.
+🎓 **Masters in Genome Analytics** — Monash University, Australia
+🔬 **4 years** prior research — CSIR-CCMB, India ( plant genomics)
+🧵 **Thesis:** sequence features governing condition-specific splicing in plants, built around the `SpliSER` pipeline (SKB Lab, Monash)
 
-My Master’s thesis investigated the sequence features governing condition-specific alternative splicing in plants. The project combined read alignment, splice-site quantification, and motif discovery into a reproducible bioinformatics workflow built around the SpliSER pipeline, a tool developed and published by the SKB Lab at Monash University.
-**Research interests:**
+**Research interests**
 
-- 🧬 RNA sequencing & transcriptomics
-- 🧩 Alternative splicing analysis
-- 🌾 Plant genomics
-- 🤖 Machine learning for genomic data
-- 🧪 Computational biology & variant analysis
+🧬 RNA-Seq &nbsp;·&nbsp; 🧩 Splicing &nbsp;·&nbsp; 🌾 Plant genomics &nbsp;·&nbsp; 🤖 Genome curation &nbsp;·&nbsp; 🧪 Variant analysis
 
-I care about pipelines that are **reproducible, well-documented, and biologically grounded** — not just scripts that run once on someone's laptop.
+> Reproducible, well-documented, biologically grounded pipelines — not scripts that run once on someone's laptop.
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-```python
-class Researcher:
-    def __init__(self):
-        self.name = "Nikhila Sai Tummala"
-        self.role = "Bioinformatics Researcher"
-        self.based_in = "Australia"
-        self.education = "Masters in Genome Analytics, Monash University"
-        self.focus = [
-            "RNA-Seq", "Splicing",
-            "Plant Genomics", "ML",
-            "Comp. Biology"
-        ]
-
-    def current_status(self):
-        return "Decoding genome 🌱"
-```
+<img src="assets/phoenix-dna-logo.png" width="100%" alt="Phoenix and DNA helix artwork"/>
 
 </td>
 </tr>
@@ -84,7 +62,7 @@ class Researcher:
 **Project Associate — CSIR-Centre for Cellular and Molecular Biology (CCMB)**
 `3 years 10 months`
 
-Worked on plant genomics pipelines, including genome assembly QC, variant discovery, QTL-seq analysis, and differential gene expression workflows for rice genetics research — work that forms the basis of the publicly available preprints listed below.
+Worked on oncology and plant genomics pipelines, including genome assembly QC, variant discovery, QTL-seq analysis, and differential gene expression workflows for rice genetics research — work that forms the basis of the publicly available preprints listed below.
 
 </details>
 
@@ -100,10 +78,12 @@ Worked on plant genomics pipelines, including genome assembly QC, variant discov
 <tr>
 <td width="50%">
 
-### 🧵 Splicing Atlas: Sequence features Governing Condition-Specific Splicing in Plants
+### 🧵 Splicing: Sequence Features Governing Condition-Specific Splicing in Plants
 **Master's Thesis — Monash University**
 
-`fastQC``Trimmomatic``STAR` `SpliSER` `MEME Suite / XSTREME` `Galaxy`
+Genome-wide analysis of condition-specific alternative splicing events in plants under varying environmental conditions.
+
+`STAR` `SpliSER` `MEME Suite / XSTREME` `Galaxy`
 
 </td>
 <td width="50%">
@@ -111,14 +91,14 @@ Worked on plant genomics pipelines, including genome assembly QC, variant discov
 ### 🧬 Gene–Phenotype Association via Variant Analysis
 Identifying gene–phenotype associations through systematic variant calling and annotation pipelines.
 
-`BWA` `freebayes haplotype caller` `GATK` `SAMtools` `VEP-ensemble` `STRING` `agri-go2` `pantherdb`
+`BWA` `GATK` `SAMtools` `VEP`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💊 Gene–Drug Target Analysis via DE Expression
+### 💊 Gene–Drug Target Analysis via DEG Expression
 Differential expression-driven analysis to flag candidate gene–drug target relationships.
 
 `DESeq2` `featureCounts` `R`
@@ -126,23 +106,16 @@ Differential expression-driven analysis to flag candidate gene–drug target rel
 </td>
 <td width="50%">
 
-### 🌾 Multi-Omics Analysis of Trait-Specific Genomics in Rice
-Integrative omics analysis dissecting the genetic architecture of agronomically important traits in rice.
+### 🌾 Multi-Omics Analysis of Trait-Specific Genomics, Candidate Gene & SNP Marker Discovery for Early Heading in Rice
+Integrative omics analysis QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
 
-`QTL-seq` `KASP` `RNA-Seq` `TASSEL` `Variant analysis pipeline`
+`QTL-seq` `KASP` `RNA-Seq` `TASSEL` `DESeq2`
 
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2">
 
-### 🕐 Candidate Gene & SNP Marker Discovery for Early Heading in Rice
-Multi-year QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL in rice.
-
-`QTL-seq` `KASP` `RNA-STAR` `DESeq2`
-
-</td>
-</tr>
 </table>
 
 <br/>
@@ -211,8 +184,17 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://img.shields.io/badge/FastQC-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/Trimmomatic-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/BWA-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/Bowtie2-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/HISAT2-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/GATK-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/FreeBayes-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/HaplotypeCaller-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/Picard-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/SAMtools-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/BCFtools-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/BEDtools-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/featureCounts-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="https://img.shields.io/badge/Flagstat-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/Nextflow-1a1a2e?style=for-the-badge&logo=nextflow&logoColor=c9b8ff"/>
 
 **Platforms & Environments**
@@ -222,8 +204,16 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=f5a880"/>
 <img src="https://img.shields.io/badge/VS%20Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=f5a880"/>
 <img src="https://img.shields.io/badge/Galaxy-1a1a2e?style=for-the-badge&logoColor=f5a880"/>
+<img src="https://img.shields.io/badge/PANTHER%20DB-1a1a2e?style=for-the-badge&logoColor=f5a880"/>
+<img src="https://img.shields.io/badge/STRING%20DB-1a1a2e?style=for-the-badge&logoColor=f5a880"/>
 
 </div>
+
+<details>
+<summary><i>More platforms coming soon — list is being expanded</i></summary>
+<br/>
+<sub>A few more annotation and analysis platforms used during thesis and CCMB work are being added here as they're confirmed.</sub>
+</details>
 
 <br/>
 
@@ -256,7 +246,7 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <summary><b>📈 A note on these stats</b></summary>
 <br/>
 
-I'm early in my open-source journey — currently building out my pipeline documentation repositories and learning in public. These numbers will grow as more of my thesis and research code gets published here. 🌱
+I'm early in my open-source journey — currently building out my pipeline documentation repositories and learning in public. The "most used languages" card currently shows HTML because that's the only repo type pushed so far (the GitHub Pages docs site) — it'll update automatically to reflect Python/Bash/R as thesis and pipeline code gets pushed. If the commit/stat cards above ever show a fetch error, it's a known intermittent issue with the third-party stats service, not a sign anything's broken on the repo side — refreshing the page usually fixes it. 🌱
 
 </details>
 
