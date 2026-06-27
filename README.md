@@ -29,10 +29,12 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
-🎓 NIKHILA SAI TUMMALA — Bachelor of Technology in Bioinformatics
+NIKHILA SAI TUMMALA
+🎓 Bachelor of Technology in Bioinformatics - VFSTR University, India
 🎓 Masters in Genome Analytics — Monash University, Australia
 🔬 4 years prior research — CSIR-CCMB, India (plant genomics)
-🧵 Thesis: sequence features governing condition-specific splicing in plants, built around the SpliSER pipeline (SKB Lab, Monash)
+🧵 Bachelors Thesis : Gene - Phenotype Association in Rice Mutant Line using NGS”.
+🧵 Masters Thesis   : Sequence Features Governing Condition-Specific Splicing in plants, built around the SpliSER pipeline (SKB Lab, Monash)
 
 Research interests
 
