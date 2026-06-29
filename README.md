@@ -228,7 +228,15 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 
 </div>
 <br/>
-
+</div>
+<details>
+<summary><b>📈 A note on these stats</b></summary>
+<br/>
+I'm early in my open-source journey currently building out my pipeline documentation repositories and learning in public.
+</details>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<br/>
 ## 📬 Let's Connect
 
 <div align="center">
