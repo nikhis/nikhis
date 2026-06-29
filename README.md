@@ -3,14 +3,11 @@
 <br/><br/>
   
 <a href="https://github.com/nikhis">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA/DNA-sequencing;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=FF7A45&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA/DNA-sequencing;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=06706A&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
 </a>
 <br/><br/>
-
 <i>"Every genome tells a story, I want to unravel it."</i>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/-About-0a0a0a?style=for-the-badge" alt=""/> 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
 <a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
