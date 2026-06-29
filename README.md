@@ -183,7 +183,7 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://img.shields.io/badge/featureCounts-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/Flagstat-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 
-Platforms & Environments
+**Platforms & Environments**
 
 <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=f5a880"/>
 <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=f5a880"/>
