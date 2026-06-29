@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/nikhis/nikhis/main/hero-banner.svg?v=3" width="100%" alt="Hero banner"/>
+<img src="https://raw.githubusercontent.com/nikhis/nikhis/main/hero-banner1.svg?v=5" width="100%" alt="Hero banner"/>
 <br/><br/>
   
 <a href="https://github.com/nikhis">
@@ -8,7 +8,7 @@
 <br/><br/>
 <i>"Every genome tells a story, I want to unravel it."</i>
 <br/><br/>
-<img src="https://img.shields.io/badge/**-About-0a0a0a**?style=for-the-badge" alt=""/> 
+<img src="https://img.shields.io/badge/-About-0a0a0a?style=for-the-badge" alt=""/> 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
 <a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
 <a href="#-research--publications"><img src="https://img.shields.io/badge/Research-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
