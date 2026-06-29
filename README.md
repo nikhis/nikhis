@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/nikhis/nikhis/main/hero-banner.svg?v=2" width="100%" alt="Hero banner"/>
-
+<img src="https://raw.githubusercontent.com/nikhis/nikhis/main/hero-banner.svg?v=3" width="100%" alt="Hero banner"/>
+<br/><br/>
   
 <a href="https://github.com/nikhis">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Nikhila's+GitHub;Genome+Analytics+%7C+Bioinformatics;Computational+Biology+%7C+RNA/DNA-sequencing;Turning+Sequence+Data+Into+Discovery;&font=Fira+Code&center=true&width=640&height=50&color=FF7A45&vCenter=true&size=22&pause=1200&background=00000000&borderColor=00000000"/>
