@@ -183,7 +183,7 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://img.shields.io/badge/featureCounts-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 <img src="https://img.shields.io/badge/Flagstat-1a1a2e?style=for-the-badge&logoColor=c9b8ff"/>
 
-**Platforms & Environments**
+Platforms & Environments
 
 <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=f5a880"/>
 <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=f5a880"/>
@@ -192,42 +192,24 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://img.shields.io/badge/Galaxy-1a1a2e?style=for-the-badge&logoColor=f5a880"/>
 <img src="https://img.shields.io/badge/PANTHER%20DB-1a1a2e?style=for-the-badge&logoColor=f5a880"/>
 <img src="https://img.shields.io/badge/STRING%20DB-1a1a2e?style=for-the-badge&logoColor=f5a880"/>
-
 </div>
-
 <details>
-<summary><i>More experiences coming soon — list is being expanded</i></summary>
+<summary><i>More platforms coming soon — list is being expanded</i></summary>
 <br/>
 <sub>A few more annotation and analysis platforms used during thesis and CCMB work are being added here as they're confirmed.</sub>
 </details>
-
 <br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
-
 <br/>
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=nikhis&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8FE3CF&icon_color=c9b8ff&text_color=b8c5d6&include_all_commits=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhis&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8FE3CF&text_color=b8c5d6&langs_count=8" width="38%"/>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhis&theme=dark&hide_border=true&background=0d1117&ring=8FE3CF&fire=f5a880&currStreakLabel=8FE3CF" width="49%"/>
-
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhis&theme=react-dark&bg_color=0d1117&color=8FE3CF&line=c9b8ff&point=f5a880&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikhis&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%"/>
-
-</div>
-<br/>
 </div>
 <details>
 <summary><b>📈 A note on these stats</b></summary>
