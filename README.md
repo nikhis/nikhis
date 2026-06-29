@@ -77,54 +77,30 @@ Worked on plant genomics from phenotyping in field to extracting the genome to s
 
 <br/>
 
-## 🔬 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧵 Splicing: Sequence Features Governing Condition-Specific Splicing in Plants
-**Master's Thesis : Monash University**
-
+🔬 Projects
+<table> <tr> <td width="50%">
+Show Image
+🧵 Splicing: Sequence Features Governing Condition-Specific Splicing in Plants
+Master's Thesis — Monash University
 Genome-wide analysis of condition-specific alternative splicing events in plants under varying environmental conditions.
-
-`STAR` `SpliSER` `MEME Suite / XSTREME` `Galaxy`
-
-</td>
-<td width="50%">
-
-### 🧬 Gene–Phenotype Association via Variant Analysis
+<img src="https://img.shields.io/badge/STAR-8FE3CF?style=flat-square&logoColor=0d1b1a"/> <img src="https://img.shields.io/badge/SpliSER-8FE3CF?style=flat-square&logoColor=0d1b1a"/> <img src="https://img.shields.io/badge/MEME%20Suite%2FXSTREME-8FE3CF?style=flat-square&logoColor=0d1b1a"/> <img src="https://img.shields.io/badge/Galaxy-8FE3CF?style=flat-square&logoColor=0d1b1a"/>
+</td> <td width="50%">
+Show Image
+🧬 Gene–Phenotype Association via Variant Analysis
 Identifying gene–phenotype associations through systematic variant calling and annotation pipelines.
-
-`BWA` `GATK` `SAMtools` `VEP` `DNA extraction and sequencing` 
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💊 Gene–Drug Target Analysis via DEG Expression
+<img src="https://img.shields.io/badge/BWA-c9b8ff?style=flat-square&logoColor=18152a"/> <img src="https://img.shields.io/badge/GATK-c9b8ff?style=flat-square&logoColor=18152a"/> <img src="https://img.shields.io/badge/SAMtools-c9b8ff?style=flat-square&logoColor=18152a"/> <img src="https://img.shields.io/badge/VEP-c9b8ff?style=flat-square&logoColor=18152a"/>
+</td> </tr> <tr> <td width="50%">
+Show Image
+💊 Gene–Drug Target Analysis via DEG Expression
 Differential expression-driven analysis to flag candidate gene–drug target relationships.
+<img src="https://img.shields.io/badge/DESeq2-f5a880?style=flat-square&logoColor=261813"/> <img src="https://img.shields.io/badge/featureCounts-f5a880?style=flat-square&logoColor=261813"/> <img src="https://img.shields.io/badge/R-f5a880?style=flat-square&logoColor=261813"/>
+</td> <td width="50%">
+Show Image
+🌾 Multi-Omics Analysis of Trait-Specific Genomics, Candidate Gene & SNP Marker Discovery for Early Heading in Rice
+Integrative omics analysis — QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
+<img src="https://img.shields.io/badge/QTL--seq-ff8fb3?style=flat-square&logoColor=2a1420"/> <img src="https://img.shields.io/badge/KASP%20Assays-ff8fb3?style=flat-square&logoColor=2a1420"/> <img src="https://img.shields.io/badge/RNA--Seq-ff8fb3?style=flat-square&logoColor=2a1420"/> <img src="https://img.shields.io/badge/TASSEL-ff8fb3?style=flat-square&logoColor=2a1420"/> <img src="https://img.shields.io/badge/DESeq2-ff8fb3?style=flat-square&logoColor=2a1420"/>
+</td> </tr> </table> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/> <br/>
 
-`DESeq2` `featureCounts` `R`
-
-</td>
-<td width="50%">
-
-### 🌾 Multi-Omics Analysis of Trait-Specific Genomics, Candidate Gene & SNP Marker Discovery for Early Heading in Rice
-Integrative omics analysis, QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
-
-`QTL-seq` `KASP Assays` `RNA-Seq` `TASSEL` `DESeq2` `RNA extraction and sequencing` `PCR`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
-
-<br/>
 
 ## 📚 Research & Publications
 
