@@ -194,6 +194,7 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://img.shields.io/badge/STRING%20DB-1a1a2e?style=for-the-badge&logoColor=f5a880"/>
 </div>
 <details>
+  
 <summary><i>More platforms coming soon — list is being expanded</i></summary>
 <br/>
 <sub>A few more annotation and analysis platforms used during thesis and CCMB work are being added here as they're confirmed.</sub>
@@ -201,7 +202,8 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
 <br/>
-📊 GitHub Analytics
+
+📊 **GitHub Analytics**
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nikhis&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8FE3CF&icon_color=c9b8ff&text_color=b8c5d6&include_all_commits=true&count_private=true" width="49%"/>
@@ -212,6 +214,7 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhis&theme=react-dark&bg_color=0d1117&color=8FE3CF&line=c9b8ff&point=f5a880&hide_border=true" width="90%"/>
 </div>
 <details>
+
 <summary><b>📈 A note on these stats</b></summary>
 <br/>
 I'm early in my open-source journey currently building out my pipeline documentation repositories and learning in public.
