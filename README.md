@@ -8,7 +8,6 @@
 <br/><br/>
 <i>"Every genome tells a story, I want to unravel it."</i>
 <br/><br/>
-<img src="https://img.shields.io/badge/-About-0a0a0a?style=for-the-badge" alt=""/> 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
 <a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
 <a href="#-research--publications"><img src="https://img.shields.io/badge/Research-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
@@ -21,32 +20,25 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
 <br/>
 
-🧬 About Me
+🧬 **About Me**
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
   
-NIKHILA SAI TUMMALA
-  
-🎓 Bachelor of Technology in Bioinformatics, VFSTR University, India
+**NIKHILA SAI TUMMALA**  
+**🎓 Bachelor of Technology in Bioinformatics, VFSTR University, India**
 
+**🎓 Masters in Genome Analytics, Monash University, Australia**
 
-🎓 Masters in Genome Analytics, Monash University, Australia
+**🔬 4 years prior research in CSIR-CCMB, India (plant genomics)**
 
+**🧵 Bachelors Thesis : Gene to Phenotype Association in Rice Mutant Line using NGS**
 
-🔬 4 years prior research in CSIR-CCMB, India (plant genomics)
+🧵 **Masters Thesis : Sequence Features Governing Condition-Specific Splicing in plants, built around the SpliSER pipeline (SKB Lab, Monash)
+ Research interests**
 
-
-🧵 Bachelors Thesis : Gene to Phenotype Association in Rice Mutant Line using NGS”
-
-
-🧵 Masters Thesis   : Sequence Features Governing Condition-Specific Splicing in plants, built around the SpliSER pipeline (SKB Lab, Monash)
-
-Research interests
-
-🧬 RNA-Seq  ·  🧩 Splicing  ·  🌾 Plant genomics  ·  🤖 Genome curation  ·  🧪 Variant analysis
-
+**🧬 RNA-Seq  ·  🧩 Splicing  ·  🌾 Plant genomics  ·  🤖 Genome curation  ·  🧪 Variant analysis**
 
 Reproducible, well-documented, biologically grounded pipelines — not scripts that run once on someone's laptop.
 
@@ -85,16 +77,14 @@ Worked on plant genomics from phenotyping in field to extracting the genome to s
 
 Genome-wide analysis of condition-specific alternative splicing events in plants under varying environmental conditions.
 
-`STAR` `SpliSER` `MEME Suite / XSTREME` `Galaxy`
-
+**`STAR` `SpliSER` `MEME Suite / XSTREME` `Galaxy`**
 </td>
 <td width="50%">
 
 ### 🧬 Gene–Phenotype Association via Variant Analysis
 Identifying gene–phenotype associations through systematic variant calling and annotation pipelines.
 
-`BWA` `GATK` `SAMtools` `VEP` `DNA extraction and sequencing` 
-
+**`BWA` `GATK` `SAMtools` `VEP` `DNA extraction and sequencing`**
 </td>
 </tr>
 <tr>
@@ -103,15 +93,14 @@ Identifying gene–phenotype associations through systematic variant calling and
 ### 💊 Gene–Drug Target Analysis via DEG Expression
 Differential expression-driven analysis to flag candidate gene–drug target relationships.
 
-`DESeq2` `featureCounts` `R`
-
+**`DESeq2` `featureCounts` `R`**
 </td>
 <td width="50%">
 
 ### 🌾 Multi-Omics Analysis of Trait-Specific Genomics, Candidate Gene & SNP Marker Discovery for Early Heading in Rice
 Integrative omics analysis, QTL-seq + transcriptomic study identifying candidate genes and SNP markers underlying a major early-heading QTL and dissecting the genetic architecture of agronomically important traits in rice.
 
-`QTL-seq` `KASP Assays` `RNA-Seq` `TASSEL` `DESeq2` `RNA extraction and sequencing` `PCR`
+**`QTL-seq` `KASP Assays` `RNA-Seq` `TASSEL` `DESeq2` `RNA extraction and sequencing` `PCR`**
 
 </td>
 </tr>
