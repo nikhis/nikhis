@@ -40,8 +40,7 @@
 
 **🧬 RNA-Seq  ·  🧩 Splicing  ·  🌾 Plant genomics  ·  🤖 Genome curation  ·  🧪 Variant analysis**
 
-Reproducible, well-documented, biologically grounded pipelines — not scripts that run once on someone's laptop.
-
+**Reproducible, well-documented, biologically grounded pipelines — not scripts that run once on someone's laptop**
 </td>
 
 <td width="45%" valign="top" align="center">
@@ -228,15 +227,6 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://github-profile-trophy.vercel.app/?username=nikhis&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%"/>
 
 </div>
-
-<details>
-<summary><b>📈 A note on these stats</b></summary>
-<br/>
-
-I'm early in my open-source journey — currently building out my pipeline documentation repositories and learning in public. The "most used languages" card currently shows HTML because that's the only repo type pushed so far (the GitHub Pages docs site) — it'll update automatically to reflect Python/Bash/R as thesis and pipeline code gets pushed. If the commit/stat cards above ever show a fetch error, it's a known intermittent issue with the third-party stats service, not a sign anything's broken on the repo side — refreshing the page usually fixes it. 🌱
-
-</details>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
