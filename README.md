@@ -195,7 +195,8 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 </div>
 <details>
   
-<summary><i>More platforms coming soon — list is being expanded</i></summary>
+<summary><i>More platforms coming soon, list is being expanded.</i></summary>
+
 <br/>
 <sub>A few more annotation and analysis platforms used during thesis and CCMB work are being added here as they're confirmed.</sub>
 </details>
@@ -203,7 +204,9 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
 <br/>
 
+
 📊 **GitHub Analytics**
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nikhis&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8FE3CF&icon_color=c9b8ff&text_color=b8c5d6&include_all_commits=true&count_private=true" width="49%"/>
