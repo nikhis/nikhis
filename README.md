@@ -7,7 +7,7 @@
 </a>
 <br/><br/>
 
-<i>"Every genome tells a story — I want to unravel it."</i>
+<i>"Every genome tells a story, I want to unravel it."</i>
 
 <br/><br/>
 
@@ -29,9 +29,8 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
+  
 NIKHILA SAI TUMMALA
-
-
   
 🎓 Bachelor of Technology in Bioinformatics, VFSTR University, India
 
@@ -42,7 +41,7 @@ NIKHILA SAI TUMMALA
 🔬 4 years prior research in CSIR-CCMB, India (plant genomics)
 
 
-🧵 Bachelors Thesis : Gene - Phenotype Association in Rice Mutant Line using NGS”
+🧵 Bachelors Thesis : Gene to Phenotype Association in Rice Mutant Line using NGS”
 
 
 🧵 Masters Thesis   : Sequence Features Governing Condition-Specific Splicing in plants, built around the SpliSER pipeline (SKB Lab, Monash)
@@ -215,7 +214,7 @@ QTL-seq and transcriptomic analysis of the early-heading rice line SM93, identif
 </div>
 
 <details>
-<summary><i>More platforms coming soon — list is being expanded</i></summary>
+<summary><i>More experiences coming soon — list is being expanded</i></summary>
 <br/>
 <sub>A few more annotation and analysis platforms used during thesis and CCMB work are being added here as they're confirmed.</sub>
 </details>
