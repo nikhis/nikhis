@@ -8,14 +8,7 @@
 <br/><br/>
 <i>"Every genome tells a story, I want to unravel it."</i>
 <br/><br/>
-<a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
-<a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
-<a href="#-research--publications"><img src="https://img.shields.io/badge/Research-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
-<a href="#-tech--tools"><img src="https://img.shields.io/badge/Tech%20Stack-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
-<a href="#-github-analytics"><img src="https://img.shields.io/badge/GitHub%20Stats-1a1a2e?style=flat-square&logoColor=white" alt=""/></a> 
-<a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-1a1a2e?style=flat-square&logoColor=white" alt=""/></a>
 
-</div>
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
 <br/>
